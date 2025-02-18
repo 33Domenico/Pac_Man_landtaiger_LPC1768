@@ -6,9 +6,7 @@ This project consists of implementing a **Pac-Man** game for the **LandTiger Boa
 ### Delivery Information
 - **Delivery Date:** 12th January 2025
 - **Extra Points:** Up to 2 points (Christmas Edition)
-- **Expected Delivery:**
-  - `extrapoint1.zip`: Zipped project folder containing all files with saved compilation options.
-  - This document compiled in PDF format.
+
 
 ## Game Description
 Pac-Man is a classic maze arcade game where the player navigates a maze, eating pills and avoiding obstacles. This implementation follows a simplified version of the original game.
@@ -26,7 +24,7 @@ Pac-Man is a classic maze arcade game where the player navigates a maze, eating 
   - **6 Power Pills** placed at random positions and times.
   - A **central box** (potential future use).
   - **Score counter**, **Remaining Lives**, and a **Countdown Timer**.
-
+![alt text](image-1.png)
 ### Gameplay Mechanics
 1. **Pills Placement**
    - The maze is filled with **240 Standard Pills**.
@@ -54,12 +52,5 @@ Pac-Man is a classic maze arcade game where the player navigates a maze, eating 
    - **Lose Condition:** If the timer reaches **0** before all pills are eaten, a **"Game Over!"** screen appears.
 
 ## Emulator Configuration
-- **Ensure that the project is saved with all compilation options.**
-- **Attach relevant comments and settings.**
-
-## Submission Guidelines
-- Compress all necessary files into **`extrapoint1.zip`**.
-- Include **this document as a PDF**.
-- Submit a **4-minute explanatory video** demonstrating the project and debugging process.
-
+![alt text](image.png)
 
